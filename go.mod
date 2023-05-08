@@ -1,5 +1,5 @@
 module github.com/google/safehtml
 
-go 1.14
+go 1.20
 
-require golang.org/x/text v0.3.3
+require golang.org/x/text v0.9.0

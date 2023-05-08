@@ -1,4 +1,4 @@
-module github.com/google/safehtml
+module github.com/oter/safehtml
 
 go 1.20
 
